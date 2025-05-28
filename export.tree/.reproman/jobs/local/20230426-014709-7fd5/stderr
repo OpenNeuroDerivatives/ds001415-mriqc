@@ -1,8 +1,0 @@
-Warning: Permanently added 'c162-122' (ECDSA) to the list of known hosts.
-WARNING (04/27/23 05:42:44): LAUNCHER_WORKDIR variable not set. Using current directory.
-using /tmp/launcher.5423858.hostlist.c3XlLWBI to get hosts
-starting job on c162-122
-starting job on c162-173
-starting job on c162-203
-starting job on c162-204
-starting job on c162-211
